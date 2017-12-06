@@ -1,0 +1,25 @@
+.site-content {
+    padding-top: 0px;
+}
+
+.page-title {
+    display: none;
+}
+.wrap {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.has-sidebar:not(.error404) #primary {
+    width: 70%;
+}
+.has-sidebar #secondary {
+    width: 26%;
+}
+.social-navigation{
+
+    display: none;
+}
+.site-info{
+
+    display: none;
+}
